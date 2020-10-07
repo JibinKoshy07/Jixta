@@ -1,0 +1,32 @@
+printf"
+                                                                                       
+
+     ██╗██╗██╗  ██╗████████╗ █████╗ 
+     ██║██║╚██╗██╔╝╚══██╔══╝██╔══██╗
+     ██║██║ ╚███╔╝    ██║   ███████║
+██   ██║██║ ██╔██╗    ██║   ██╔══██║
+╚█████╔╝██║██╔╝ ██╗   ██║   ██║  ██║
+ ╚════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+                                                                                   
+
+"
+echo By Jibin Koshy
+echo made with CUPP &  
+     ██╗██╗██╗  ██╗████████╗ █████╗ 
+     ██║██║╚██╗██╔╝╚══██╔══╝██╔══██╗
+     ██║██║ ╚███╔╝    ██║   ███████║
+██   ██║██║ ██╔██╗    ██║   ██╔══██║
+╚█████╔╝██║██╔╝ ██╗   ██║   ██║  ██║
+ ╚════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+                                    
+
+pip3 install -r requirements.txt
+python3 cupp.py -i
+
+echo Enter the first name you entered previously.
+read filename
+
+#echo Enter the Username.
+#read username
+
+#python3 instagram.py $username $filename.txt -m 1
